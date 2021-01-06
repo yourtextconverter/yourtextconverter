@@ -1,0 +1,19 @@
+#text {
+    margin-left: 77px;
+    width: 525px;
+}
+
+.buttons {
+    margin-left: 92px;
+    margin-right: -12px;
+    flex-wrap: wrap;
+}
+
+.copy{
+    margin-left: 77px;
+    width: 525px;
+}
+
+.logo img {
+    margin-left: 129px;
+}
